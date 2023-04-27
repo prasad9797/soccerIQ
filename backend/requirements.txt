@@ -1,0 +1,12 @@
+flask
+python-dotenv
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+flask_api
+hyperopt
+mlxtend
+flask_cors
